@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+form {
+    max-width: 350px;
+    margin: 100px auto;
+    background: #fff;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+.login-form h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.registration-form h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.form-control {
+    background-color: #f8f9fa;
+    border: 1px solid #ced4da;
+    color: #495057;
+}
+
+.form-group{
+    margin-top: 25px;
+}
+.form-control:focus {
+    background-color: #fff;
+    border-color: #80bdff;
+    box-shadow: none;
+    color: #495057;
+}

@@ -1,0 +1,12 @@
+{
+  "otazky": [
+    "Čo je to minerál?",
+    "Aké sú typy minerálov?",
+    "Kde sa nachádzajú minerály?"
+  ],
+  "odpovede" : [
+    "Minerál je pevná látka v prírode, ktorá sa vyznačuje definovaným chemickým zložením a štruktúrou.",
+    "Minerály sa delia na rôzne typy podľa ich chemického zloženia a štruktúry, napríklad kremeňovce, uhlie, železné rudy, atď.",
+    "Minerály sa vyskytujú vo viacerých častiach sveta, vrátane hôr, jaskýň, riek a morí. Ich lokalizácia závisí od geologických procesov."
+  ]
+}
